@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sammykins777
 - 👀 I’m interested in -- learning to code and design
 
-- 🌱 I’m currently learning -- more on CSS and making layouts pixel perfect in the browser
+- 🌱 I’m currently learning -- gsap for web animations
 
-- 💞️ I’m looking to collaborate on -- building out CSS layouts for practice. 
+- 💞️ I’m looking to collaborate on -- taking web animations to the next level
 
 
 <!---
